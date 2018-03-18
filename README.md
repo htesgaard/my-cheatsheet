@@ -11,7 +11,7 @@ Content in the first column | Content in the second column
 
 
 Shortcut | Description
-- | -
+-- | --
 virtualenv<br>`$ cd my-project-folder`<br> `$ virtualenv --python python3 my-venv`<br> `$ source my-venv /bin/activate`<br>|Create virtual environment
 `pip freeze > requirements.txt`|Freeze currently installed packages
 `pip install -r requirements.txt`|Deactivate virtual environment

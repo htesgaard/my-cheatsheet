@@ -1,8 +1,6 @@
 # my-cheatsheet
 
-
 __Python__
-
 
 Shortcut | Description
 -- | --
@@ -11,9 +9,7 @@ Shortcut | Description
 `pip install -r requirements.txt`|Deactivate virtual environment
 `pyenv`|Allow running multiple versions of the Python interpreter at the same time. For a pyenv example see [Tweak MacOS for Development](https://reflective.atlassian.net/wiki/spaces/TN/pages/58518889/Tweak+MacOS+for+development#TweakMacOSfordevelopment)
 
-
 __VSCode__
-
 
 Shortcut|Description
 -- | --
@@ -24,7 +20,6 @@ Shortcut|Description
 
 __Openbox__
 
-
 Shortcut|Description
 -- | --
 `Alt + Scroll wheel`|Change desktops forward and backward
@@ -32,4 +27,8 @@ Shortcut|Description
 `Win + <minus>`|Maximize (not default)
 `Alt + F2`|Run command
 
+__Search in files__
 
+Shortcut|Description
+-- | --
+`egrep -ir --exclude=*log "scrbnexnl000059"`|search recursive in files excluding files and folders using GLOB
